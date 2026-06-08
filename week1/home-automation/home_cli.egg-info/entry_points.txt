@@ -1,0 +1,2 @@
+[console_scripts]
+home = cli.main:main

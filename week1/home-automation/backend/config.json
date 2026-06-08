@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "if": "motion_detected",
+      "then": "light_on"
+    },
+    {
+      "if": "no_motion",
+      "then": "light_off"
+    }
+  ]
+}
